@@ -4,6 +4,7 @@
     box-sizing: border-box;
     overflow: hidden;
     font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
 }
 body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -35,7 +36,7 @@ nav ul li {
 nav ul li a{
 text-decoration: none; 
   color: #ffd700;
-  font-weight: 600;
+  font-weight: 900;
   font-size: 15px;
 }
 button{
@@ -55,16 +56,13 @@ section{
     margin: 50px 250px;
 }
 .hero h1{
-    align-items: center;
-    justify-content: center;
     color: #ffd700;
     font-size: 60px;
-    font-weight: 900;
+    font-weight: 200;
     text-align-last: center;
 }
 .hero h1 span{
     margin-left: 100px;
-    font-weight: 100;
 }
 .hero button{
     margin-top: 5%;
