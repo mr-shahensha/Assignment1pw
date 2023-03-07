@@ -57,13 +57,11 @@ section{
 }
 .hero h1{
     color: #ffd700;
-    font-size: 60px;
-    font-weight: 200;
+    font-size: 70px;
+    font-weight: 900;
     text-align-last: center;
 }
-.hero h1 span{
-    margin-left: 100px;
-}
+
 .hero button{
     margin-top: 5%;
     padding: 10px 15px;
